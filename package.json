@@ -1,0 +1,23 @@
+{
+  "name": "whaty",
+  "version": "1.0.0",
+  "description": "is it truthy or falsy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finngreiter/whaty.git"
+  },
+  "keywords": [
+    "truthy",
+    "falsy"
+  ],
+  "author": "Felgee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finngreiter/whaty/issues"
+  },
+  "homepage": "https://github.com/finngreiter/whaty#readme"
+}
