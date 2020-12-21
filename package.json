@@ -1,6 +1,6 @@
 {
   "name": "whaty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "is it truthy or falsy",
   "main": "index.js",
   "scripts": {

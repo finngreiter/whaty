@@ -14,8 +14,8 @@ console.log(whaty.inString(true)); // 'truthy'
 console.log(whaty.inString(NaN)); // 'falsy'
 
 // inBoolean
-console.log(whaty.inString(true)); // true
-console.log(whaty.inString(NaN)); // false
+console.log(whaty.inBoolean(true)); // true
+console.log(whaty.inBoolean(NaN)); // false
 ```
 
 ## api
